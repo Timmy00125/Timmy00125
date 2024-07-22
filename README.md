@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Timmy00125/Timmy00125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##🚀 Software Engineer | Student | AI Enthusiast
 
-Here are some ideas to get you started:
+👋 Hi there! I'm a passionate software engineer and current student with a keen interest in AI, app development, and web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 AI & Machine Learning: I love diving into the world of AI using JAX, PyTorch, TensorFlow, and JAX. Building intelligent systems that can learn and evolve is what excites me the most!
+
+📱 App Development: I'm all about creating seamless and intuitive mobile experiences using Flutter. Crafting apps that users love is my goal.
+
+🌐 Web Development: The web is my playground! I enjoy building dynamic and robust web applications with Angular and Django.
+
+🔧 Proficient In: Python, JavaScript, Java, and TypeScript.
+
+📚 Currently Learning: Expanding my horizons with C++, Go, and other languages.
+
+Let's collaborate and build something awesome together! 🌟
+
