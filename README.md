@@ -3,7 +3,7 @@
 👋 Hi there! I'm a passionate software engineer and current student with a keen interest in AI, app development, and web development.
 
 
-💡 AI & Machine Learning: I love diving into the world of AI using JAX, PyTorch, TensorFlow, and JAX. Building intelligent systems that can learn and evolve is what excites me the most!
+💡 AI & Machine Learning: I love diving into the world of AI using PyTorch, TensorFlow, and JAX. Building intelligent systems that can learn and evolve is what excites me the most!
 
 
 📱 App Development: I'm all about creating seamless and intuitive mobile experiences using Flutter. Crafting apps that users love is my goal.
