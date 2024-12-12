@@ -15,7 +15,7 @@
 🔧 Proficient In: Python, JavaScript, Java, and TypeScript.
 
 
-📚 Currently Learning: Expanding my horizons with C++, Go, and other languages.
+📚 Currently Learning: Expanding my horizons with C++, Go, rust, and other languages.
 
 
 Let's collaborate and build something awesome together! 🌟
